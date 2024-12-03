@@ -21,7 +21,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "7648830247:AAHWnDytlWpC7c3LHQUBBzqmV8cFLSa
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/592d568b2a09e7fcf1188-d4c66150463a43f15e.jpg https://graph.org/file/2f8ee9efe81fd42092c1c-313f8e73b1b9e57b68.jpg https://graph.org/file/ffcfb1e9ef336fbcb4771-0c5a7560dc2c6f6b64.jpg https://graph.org/file/290bf9261d799ac5c4c97-cee65615a3c35617da.jpg https://graph.org/file/130fb8f60c2bf704e062a-a1d257ad63a70624ca.jpg https://graph.org/file/f871bd9f686ae1e1b4b04-58376f5518e51d599f.jpg https://graph.org/file/1d9b27c4d04131b93013b-e5a0edbab19697bef9.jpg')).split() #SAMPLE PIC
+PICS = (environ.get('PICS', 'https://envs.sh/CuU.jpg https://envs.sh/Cul.jpg https://envs.sh/Cuk.jpg https://envs.sh/Cu8.jpg https://envs.sh/Cu7.jpg https://envs.sh/CuJ.jpg https://envs.sh/Cuo.jpg https://envs.sh/Cur.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
 MELCOW_VID = environ.get("MELCOW_VID", "https://envs.sh/KNL.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/13702ae26fb05df52667c.jpg")

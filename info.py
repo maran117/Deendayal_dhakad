@@ -23,7 +23,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://envs.sh/CuU.jpg https://envs.sh/Cul.jpg https://envs.sh/Cuk.jpg https://envs.sh/Cu8.jpg https://envs.sh/Cu7.jpg https://envs.sh/CuJ.jpg https://envs.sh/Cuo.jpg https://envs.sh/Cur.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/e20b5fdaf217252964202.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://envs.sh/KNL.mp4")
+MELCOW_VID = environ.get("MELCOW_VID", "https://envs.sh/Cu9.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://graph.org/file/13702ae26fb05df52667c.jpg")
 SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/5H7.jpg'))
 CODE = (environ.get('CODE', 'https://envs.sh/5H7.jpg'))

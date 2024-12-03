@@ -42,9 +42,9 @@ reqst_channel = environ.get('REQST_CHANNEL_ID', '') # request channel id ( make 
 
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://maran116:xjkIhLsmKcSS4hxi@cluster0.1ybqm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://maran4486:2EpdsjjTok06WZ11@cluster0.gipwv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "mangoDB")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Cluster0')
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # index movie Notification & update channel 
 DEENDAYAL_MOVIE_UPDATE_NOTIFICATION = bool(environ.get('DEENDAYAL_MOVIE_UPDATE_NOTIFICATION', False))  # NOTIFICATION On ( True ) / Off ( False )

@@ -63,13 +63,13 @@ Nᴀᴍᴇ - {}
 
 ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴘᴇʟʟɪɴɢ ɪɴ ɢᴏᴏɢʟᴇ ᴀɴᴅ ᴛʀʏ ᴀɢᴀɪɴ 😃
 
-📝 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
+📝 Aɴɪᴍᴇs ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-⚜️ ᴇxᴀᴍᴘʟᴇ : Jawan or Jawan 2023 
+⚜️ ᴇxᴀᴍᴘʟᴇ : Naruto or Naruto Shippuden 
 
 📝 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-⚜️ ᴇxᴀᴍᴘʟᴇ : Loki S01 or Loki S01E04 or Lucifer S03E24
+⚜️ ᴇxᴀᴍᴘʟᴇ : Naruto S01 or Naruto S01E04 or Naruto Shippuden S03E24
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
     
@@ -237,7 +237,7 @@ Nᴀᴍᴇ - {}
 
 ɢᴏ ᴛᴏ ɢᴏᴏɢʟᴇ ➠ ᴛʏᴘᴇ ꜱᴇʀɪᴇꜱ ɴᴀᴍᴇ ➠ ᴄᴏᴘʏ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ➠ ᴘᴀꜱᴛᴇ ᴛʜɪꜱ ɢʀᴏᴜᴘ
 
-ᴇxᴀᴍᴘʟᴇ : Loki S01E01
+ᴇxᴀᴍᴘʟᴇ : Naruto S01E01
 
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)"""
 
@@ -264,7 +264,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 🤠Requested by : {message.from_user.mention}
-🔹Advertisement Contact🔹 : @TamilFlix_Admine_bot</b>"""
+🔹Aᴅᴠᴇʀᴛɪsᴇᴍᴇɴᴛ Cᴏɴᴛᴀᴄᴛ🔹: @TamilFlix_Admine_bot</b>"""
     
 
     RESTART_TXT = """

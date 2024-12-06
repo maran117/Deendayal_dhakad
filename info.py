@@ -42,7 +42,7 @@ reqst_channel = environ.get('REQST_CHANNEL_ID', '') # request channel id ( make 
 
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://maran4486:2EpdsjjTok06WZ11@cluster0.gipwv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://maran116:cK5V1CJbJVVOXcdo@cluster0.1ybqm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "mangoDB")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
